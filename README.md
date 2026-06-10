@@ -1,4 +1,4 @@
-## The Business Problem
+## Telco Customer Churn Prediction Using ML
 
 Every month telecom companies lose customers to competitors. The cost of acquiring a replacement customer is 5 to 7 times higher than retaining an existing one. The challenge is not knowing **who** will leave **before** they actually leave.
 
